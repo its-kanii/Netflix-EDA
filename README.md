@@ -44,7 +44,7 @@ README.md             # Project overview and documentation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/netflix-eda.git
+   git clone https://github.com/its-kanii/Netflix-EDA.git
 ````
 
 2. Open the `EDA.ipynb` notebook in Jupyter or VS Code.
